@@ -1,0 +1,2 @@
+https://android.googlesource.com/platform/system/core/+/master/adb/SERVICES.TXT
+https://github.com/android/platform_system_core/blob/master/adb/protocol.txt

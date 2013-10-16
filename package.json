@@ -1,0 +1,15 @@
+{
+  "name": "adbhost",
+  "version": "0.0.1",
+  "description": "Android Debug Bridge host protocol client",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidorares/node-adbhost"
+  },
+  "keywords": [
+    "androoid", "adb", "client", "bridge"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT"
+}
