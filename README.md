@@ -2,7 +2,7 @@
 [Android Debug Bridge host protocol](https://github.com/android/platform_system_core/blob/master/adb/protocol.txt) client for [node.js](http://nodejs.org)
 Currently only tcp transport is supported (usb transport in TODO). You don't need to have local adb server running on your computer.
 
-[![NPM](https://nodei.co/npm/i3.png?downloads=true&stars=true)](https://nodei.co/npm/i3/)
+[![NPM](https://nodei.co/npm/adbhost.png?downloads=true&stars=true)](https://nodei.co/npm/adbhost/)
 
 ## Install
 
