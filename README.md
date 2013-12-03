@@ -40,3 +40,7 @@ shell.pipe(process.stdout);
   - [Adb host and local protocol documentation](https://github.com/android/platform_system_core/blob/master/adb/protocol.txt)
   - [List of host services](https://github.com/android/platform_system_core/blob/master/adb/SERVICES.TXT)
   - [Local protocol node.js client](https://github.com/flier/adb.js)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sidorares/node-adbhost/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
