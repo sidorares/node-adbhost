@@ -1,4 +1,6 @@
 # node-adbhost
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/node-adbhost.svg)](https://greenkeeper.io/)
 [Android Debug Bridge host protocol](https://github.com/android/platform_system_core/blob/master/adb/protocol.txt) client for [node.js](http://nodejs.org)
 Currently only tcp transport is supported (usb transport in TODO). You don't need to have local adb server running on your computer.
 
